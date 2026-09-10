@@ -22,10 +22,6 @@
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,java,ts,js,react,angular,nodejs,postgres,mysql,vscode,git,linux,windows&theme=dark" alt="skills" />
-
-<br><br>
-
 **AI & Machine Learning**
 <br>
 <img src="https://img.shields.io/badge/LLMs-5A5A5A?style=flat" />

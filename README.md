@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Maria Joana 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+enthusiast;Full-Stack+Developer;Building+things+with+LLMs" alt="typing svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=AI+enthusiast;Full-Stack+Developer;Building+things+with+LLMs" alt="typing svg" />
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@
 ### Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Portuguese-Native-6E56CF?style=flat-square" />
-  <img src="https://img.shields.io/badge/English-Intermediate-6E56CF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Spanish-Basic-6E56CF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Portuguese-Native-A855F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/English-Intermediate-A855F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Spanish-Basic-A855F7?style=flat-square" />
 </p>

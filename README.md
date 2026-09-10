@@ -15,16 +15,17 @@
 - Master's in Computer Engineering & Multimedia @ ISEL, focused on **AI & Full-Stack development**
 - Reach me at **mjoanapires7@gmail.com** or [LinkedIn](https://www.linkedin.com/in/maria-joana-santos-pires)
 - **Currently looking for job opportunities** — if you're hiring, let's talk!
+- ⚡ Fun fact: I've spent more hours debugging embeddings than sleeping this semester
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,ts,js,react,angular,nodejs,postgres,mysql,vscode,git,linux,windows&theme=dark" />
 </p>
 
-**AI & Machine Learning**
+**🤖 AI & Machine Learning**
 <p>
   <img src="https://img.shields.io/badge/-LLMs-A855F7?style=flat-square" />
   <img src="https://img.shields.io/badge/-RAG-A855F7?style=flat-square" />
@@ -32,7 +33,7 @@
   <img src="https://img.shields.io/badge/-ChromaDB-A855F7?style=flat-square" />
 </p>
 
-**Languages**
+**💻 Languages**
 <p>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -40,14 +41,14 @@
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
-**Databases**
+**🗄️ Databases**
 <p>
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-**Full-Stack Development**
+**🌐 Full-Stack Development**
 <p>
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -57,7 +58,7 @@
 
 ---
 
-### Languages
+### 🌍 Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/Portuguese-Native-6E56CF?style=flat-square" />
@@ -66,11 +67,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mjoanap&style=flat-square&color=a855f7&label=Profile+Views" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</p>

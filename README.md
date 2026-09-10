@@ -19,7 +19,7 @@
 ### Outside the terminal
 
 - Will always choose a flight over a Netflix binge
-- Will stop mid-conversation to pet a random dog on the street
+- Will stop mid-conversation to pet a random cat/dog on the street
 - More likely to be found at the gym than on the couch
 
 ---
@@ -73,14 +73,4 @@
   <img src="https://img.shields.io/badge/Portuguese-Native-6E56CF?style=flat-square" />
   <img src="https://img.shields.io/badge/English-Intermediate-6E56CF?style=flat-square" />
   <img src="https://img.shields.io/badge/Spanish-Basic-6E56CF?style=flat-square" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mjoanap&style=flat-square&color=a855f7&label=Profile+Views" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </p>
